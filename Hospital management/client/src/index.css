@@ -1,0 +1,8 @@
+body {
+    background-color:White;
+    background-image: url("./man-talking-in-living-room.jpg");
+    background-attachment: fixed;
+    background-size:70%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
